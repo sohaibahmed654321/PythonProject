@@ -1,0 +1,7 @@
+Food Name,Price,Category,Main Ingredient,Quantity,Status,Country,Sale Price
+Biryani,1200,Main Course,Rice,1,Available,Pakistan,1080.0
+Pizza,800,Fast Food,Cheese,1,Available,Pakistan,720.0
+Burger,450,Fast Food,Beef,1,Unavailable,Pakistan,405.0
+Pasta,700,Fast Food,Pasta,1,Available,Pakistan,630.0
+Kebab,500,Main Course,Meat,2,Available,Pakistan,450.0
+Chowmein,300,Fast Food,Noodles,1,Unavailable,Pakistan,270.0
